@@ -1,8 +1,7 @@
 # 📑 Documentação – Projeto Koru
 
 Esta branch reúne os arquivos de **apresentação** e **relatórios** finais:
-
-- 📄 PDF → Relatório final.  
+ 
 - 🎞️ PPTX → Apresentação do projeto.  
 - 📓 Jupyter/Colab → Notebook com documentação técnica e explicações.  
 
